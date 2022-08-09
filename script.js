@@ -44,7 +44,5 @@ function generarTexto() {
         })
     }
 
-
     var boton1 = document.querySelector(".botonEncriptar"); 
     var boton2 = document.querySelector(".botonDesencriptar"); 
-
